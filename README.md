@@ -1,3 +1,9 @@
+# new-portfolio-website
+
+My digital space to showcase my skills, contact, resume and what I love working on
+
+> > > > > > > # d16c92ec612279c2c7392b3bb22ad857ac95ba7c
+
 # Welcome to your Lovable project
 
 ## Project info
@@ -71,3 +77,13 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+
+# new-portfolio-website
+
+# My digital space to showcase my skills, contact, resume and what I love working on
+
+# new-portfolio-website
+
+My digital space to showcase my skills, contact, resume and what I love working on
+
+> > > > > > > d16c92ec612279c2c7392b3bb22ad857ac95ba7c
