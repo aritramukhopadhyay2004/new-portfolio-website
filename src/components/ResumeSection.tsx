@@ -135,8 +135,8 @@ const ResumeSection = () => {
             className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
             onClick={() => {
               const link = document.createElement("a");
-              link.href = "/MY CV2025.pdf";
-              link.download = "MY CV2025.pdf";
+              link.href = "/MY_CV2026.pdf";
+              link.download = "MY_CV2026.pdf";
               link.click();
             }}
           >
